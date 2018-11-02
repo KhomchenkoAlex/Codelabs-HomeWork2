@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">codelabs</string>
+    <string name="hello_word_text">Hello Universe</string>
 </resources>
